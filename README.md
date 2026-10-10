@@ -1,17 +1,12 @@
-<h2>Hi there! 👋</h2>
+## AI-focused technology leader and full-stack engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/iamsushantk/)
-[![GitHub](https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=000&style=for-the-badge)](https://github.com/iamsushantk#gh-dark-mode-only) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/iamsushantk#gh-light-mode-only)
+I build production software and AI-enabled products, from discovery to delivery. My work combines engineering leadership, architecture, and hands-on development across web platforms, APIs, cloud infrastructure, and intelligent workflows.
 
-My name is Sushant, and I am a technology leader and Full Stack Software Engineer with experience leading teams, driving architecture decisions, and delivering scalable end-to-end solutions.
+**Current focus**
+- Applied AI: LLM applications, agents, retrieval, evaluation, and automation
+- Product engineering: reliable end-to-end systems that solve measurable user problems
+- Technical leadership: architecture, delivery strategy, mentoring, and strong engineering practices
 
-Over the years, I’ve worked across Tech Lead and Principal-level responsibilities—bridging business goals with technical execution, mentoring engineers, and building high-performing engineering practices.
+I turn ambiguous business problems into secure, maintainable products. I care about practical AI adoption: clear user value, reliable operations, measurable quality, and responsible delivery.
 
-My experience spans designing intuitive user experiences, architecting resilient back-end platforms, and shaping systems that scale in complexity, performance, and impact.
-
-I enjoy translating complex problems into practical, elegant solutions while creating alignment across engineering, product, and stakeholders.
-
-I’m passionate about building strong teams, enabling innovation through technology, and contributing to products that solve meaningful real-world challenges.
-
-Always curious and continuously evolving, I enjoy exploring emerging technologies and turning ambitious ideas into reliable, measurable outcomes.
+[LinkedIn](https://www.linkedin.com/in/iamsushantk/) · [GitHub](https://github.com/iamsushantk)
